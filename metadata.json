@@ -1,0 +1,6 @@
+{
+  "name": "DineDubai · Verified Dubai Restaurant Directory",
+  "description": "Verified Dubai restaurant discovery with authentic operating hours in Asia/Dubai timezone, official editorial source verification, interactive map, and accurate Google Maps directions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

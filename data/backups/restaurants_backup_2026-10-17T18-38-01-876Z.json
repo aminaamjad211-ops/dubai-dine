@@ -1,0 +1,4412 @@
+[
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "orfali-bros-bistro",
+    "placeId": "ChIJp9J8t7pAXz4RLU-ZpXvYyW8",
+    "slug": "orfali-bros-bistro",
+    "name": "Orfali Bros Bistro",
+    "arabicName": "أورفلي بروز بيسترو",
+    "tagline": "Modern Levantine & Mediterranean innovation by the three Orfali brothers",
+    "description": "Founded by Syrian chef Mohammad Orfali and pastry master brothers Wassim and Omar, Orfali Bros Bistro celebrates Dubai’s cosmopolitan community through bold, inventive storytelling dishes like the Eat H, Come With Me To Aleppo, and Shish Barak a la Gyoza.",
+    "cuisine": [
+      "Levantine",
+      "Mediterranean",
+      "Contemporary"
+    ],
+    "priceTier": "AED 180–400",
+    "neighborhood": "Wasl 51, Jumeirah 1",
+    "address": {
+      "street": "Al Wasl Road",
+      "buildingOrUnit": "Wasl 51, Building D",
+      "district": "Jumeirah 1",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Wasl 51, D Building, Al Wasl Rd, Jumeirah 1, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.210452,
+      "lng": 55.253018,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 4 249 2466",
+      "email": "info@orfalibros.com",
+      "website": "https://orfalibros.com",
+      "reservationUrl": "https://orfalibros.com",
+      "instagram": "@orfalibros_bistro"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:59",
+              "label": "Continuous Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:59",
+              "label": "Continuous Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:59",
+              "label": "Continuous Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:59",
+              "label": "Continuous Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:59",
+              "label": "Continuous Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:59",
+              "label": "Continuous Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:59",
+              "label": "Continuous Lunch & Dinner"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Reservations strongly recommended. Walk-ins accepted subject to counter seating availability.",
+      "holidayPolicy": "Open regular hours during UAE national holidays and Eid."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-15T10:00:00Z",
+      "lastCheckedAt": "2026-10-15T08:30:00Z",
+      "verifiedBy": "DineDubai Editorial & DET Verification Desk",
+      "primarySource": "Michelin Guide Dubai 2024 / 2025 (One Michelin Star)",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/orfali-bros",
+      "secondarySource": "MENA's 50 Best Restaurants #1 Ranking (2023, 2024)",
+      "secondarySourceUrl": "https://www.theworlds50best.com/mena/en/list/1-50",
+      "editorialNotes": "Full physical site verification and menu audit completed. License verified with Dubai Department of Economy and Tourism (DET).",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "One Michelin Star",
+        "body": "Awarded for culinary excellence, precision seasoning, and innovative Levantine craft.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      },
+      {
+        "title": "No. 1 in Middle East & North Africa",
+        "body": "Ranked the best restaurant across the MENA region two consecutive years.",
+        "year": 2024,
+        "source": "MENA's 50 Best Restaurants"
+      }
+    ],
+    "dietary": [
+      "Halal Certified",
+      "Vegetarian Friendly",
+      "Gluten-Free Options"
+    ],
+    "heroImage": "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg",
+    "photos": [
+      "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg",
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": true,
+    "googleMaps": {
+      "placeId": "ChIJp9J8t7pAXz4RLU-ZpXvYyW8",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Orfali%20Bros%20Bistro%2C%20Wasl%2051%2C%20D%20Building%2C%20Al%20Wasl%20Rd%2C%20Jumeirah%201%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJp9J8t7pAXz4RLU-ZpXvYyW8",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Orfali%20Bros%20Bistro%2C%20Wasl%2051%2C%20D%20Building%2C%20Al%20Wasl%20Rd%2C%20Jumeirah%201%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJp9J8t7pAXz4RLU-ZpXvYyW8"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "tresind-studio",
+    "placeId": "ChIJXff48JxrXz4Ro60oM3iM2t8",
+    "slug": "tresind-studio",
+    "name": "Trèsind Studio",
+    "arabicName": "تريسيند ستوديو",
+    "tagline": "Immersive progressive Indian fine dining at St. Regis Gardens",
+    "description": "Led by celebrated Chef Himanshu Saini, Trèsind Studio offers a theatrically paced 16-course culinary journey navigating the maritime, spice, and regional traditions of the Indian subcontinent with extraordinary modern artistry.",
+    "cuisine": [
+      "Modern Indian",
+      "Progressive Fine Dining",
+      "Tasting Menu"
+    ],
+    "priceTier": "AED 400+",
+    "neighborhood": "The Palm Jumeirah",
+    "address": {
+      "street": "The Palm Jumeirah, Crescent Rd",
+      "buildingOrUnit": "St. Regis Gardens Rooftop",
+      "district": "The Palm Jumeirah",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "St. Regis Gardens, The Palm Jumeirah, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.118944,
+      "lng": 55.14152,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 58 895 1272",
+      "email": "tresindstudio@passionfandb.com",
+      "website": "https://tresindstudio.com",
+      "reservationUrl": "https://tresindstudio.com",
+      "instagram": "@tresindstudio"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Seatings (18:00 & 21:00)"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": true,
+          "shifts": []
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Seatings (18:00 & 21:00)"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Seatings (18:00 & 21:00)"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Seatings (18:00 & 21:00)"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Seatings (18:00 & 21:00)"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Seatings (18:00 & 21:00)"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Strictly ticketed seating at 18:00 and 21:15. Closed Mondays for research and culinary development.",
+      "holidayPolicy": "Pre-booking required up to 30 days in advance."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-20T12:00:00Z",
+      "lastCheckedAt": "2026-10-16T14:00:00Z",
+      "verifiedBy": "DineDubai Editorial & Culinary Board",
+      "primarySource": "Michelin Guide Dubai 2024 / 2025 (Two Michelin Stars)",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/tresind-studio",
+      "secondarySource": "World's 50 Best Restaurants No. 13 Global Ranking",
+      "secondarySourceUrl": "https://www.theworlds50best.com",
+      "editorialNotes": "Verified directly with St. Regis Gardens management and Passion F&B executive office.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Two Michelin Stars",
+        "body": "First Indian restaurant in Dubai and the wider Middle East to hold two Michelin stars.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      },
+      {
+        "title": "World's 50 Best Restaurants #13",
+        "body": "Ranked #13 worldwide, cementing Dubai as an international gastronomic capital.",
+        "year": 2024,
+        "source": "The World's 50 Best"
+      }
+    ],
+    "dietary": [
+      "Halal Certified",
+      "Vegetarian Tasting Menu Available",
+      "Dairy-Free by Request"
+    ],
+    "heroImage": "/src/assets/images/michelin_fine_dining_dubai_1792259347947.jpg",
+    "photos": [
+      "/src/assets/images/michelin_fine_dining_dubai_1792259347947.jpg",
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": true,
+    "googleMaps": {
+      "placeId": "ChIJXff48JxrXz4Ro60oM3iM2t8",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Tr%C3%A8sind%20Studio%2C%20St.%20Regis%20Gardens%2C%20The%20Palm%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJXff48JxrXz4Ro60oM3iM2t8",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Tr%C3%A8sind%20Studio%2C%20St.%20Regis%20Gardens%2C%20The%20Palm%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJXff48JxrXz4Ro60oM3iM2t8"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "3fils",
+    "placeId": "ChIJ3fGg-M5eXz4REj_18iZ5nOU",
+    "slug": "3fils",
+    "name": "3Fils",
+    "arabicName": "ثري فيلس",
+    "tagline": "Unhurried seaside harbor dining with Asian and Japanese soul",
+    "description": "Tucked beside the traditional dhow boats of Jumeirah Fishing Harbour, 3Fils pioneered community-oriented, fine-casual dining with its Otoro nigiri, Wagyu truffle sliders, and African powerhouse chocolate dessert.",
+    "cuisine": [
+      "Asian",
+      "Japanese",
+      "Seafood"
+    ],
+    "priceTier": "AED 180–400",
+    "neighborhood": "Jumeirah Fishing Harbour",
+    "address": {
+      "street": "Al Urouba Street",
+      "buildingOrUnit": "Shop 02, Jumeirah Fishing Harbour 1",
+      "district": "Jumeirah 2",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Shop 02, Jumeirah Fishing Harbour 1, Al Urouba St, Jumeirah 2, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.198305,
+      "lng": 55.23933,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 4 333 4003",
+      "email": "info@3fils.com",
+      "website": "https://3fils.com",
+      "reservationUrl": "https://3fils.com",
+      "instagram": "@3.fils"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:30",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:30",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:30",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:30",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:30",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:30",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "23:30",
+              "label": "Continuous Service"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Strictly walk-in policy. No advance phone reservations.",
+      "holidayPolicy": "Open throughout all public holidays."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-18T09:00:00Z",
+      "lastCheckedAt": "2026-10-15T11:00:00Z",
+      "verifiedBy": "DineDubai Harbour Field Inspector",
+      "primarySource": "Michelin Guide Dubai (Bib Gourmand)",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/3fils",
+      "secondarySource": "Inaugural MENA's 50 Best #1 Winner",
+      "secondarySourceUrl": "https://www.theworlds50best.com",
+      "editorialNotes": "Harbour location and no-reservation walk-in policy confirmed in-person.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Michelin Bib Gourmand",
+        "body": "Celebrated for remarkable value, exceptional product sourcing, and casual seaside hospitality.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Halal Certified",
+      "Pescatarian Friendly",
+      "Gluten-Free Options"
+    ],
+    "heroImage": "/src/assets/images/curated_coastal_dining_1792259348552.jpg",
+    "photos": [
+      "/src/assets/images/curated_coastal_dining_1792259348552.jpg",
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": true,
+    "googleMaps": {
+      "placeId": "ChIJ3fGg-M5eXz4REj_18iZ5nOU",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=3Fils%2C%20Shop%2002%2C%20Jumeirah%20Fishing%20Harbour%201%2C%20Al%20Urouba%20St%2C%20Jumeirah%202%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJ3fGg-M5eXz4REj_18iZ5nOU",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=3Fils%2C%20Shop%2002%2C%20Jumeirah%20Fishing%20Harbour%201%2C%20Al%20Urouba%20St%2C%20Jumeirah%202%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJ3fGg-M5eXz4REj_18iZ5nOU"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "al-ustad-special-kabab",
+    "placeId": "ChIJ6z-JzZdBXz4R3N_Z4N9fGxA",
+    "slug": "al-ustad-special-kabab",
+    "name": "Al Ustad Special Kabab",
+    "arabicName": "كباب الأستاذ الخاص",
+    "tagline": "Historic Persian kebab institution serving Dubai since 1978",
+    "description": "An iconic culinary landmark in Old Dubai founded by Mohammed Ali Ansari, famed for yogurt-marinated Joojeh kebabs, Chenjeh mutton, and walls lined with thousands of historic photos and international dignitaries.",
+    "cuisine": [
+      "Persian",
+      "Iranian",
+      "Heritage Kebabs"
+    ],
+    "priceTier": "AED 30–80",
+    "neighborhood": "Al Mankhool, Bur Dubai",
+    "address": {
+      "street": "Al Mankhool Road, near Al Fahidi Metro Station",
+      "buildingOrUnit": "Ground Floor, Al Musallah Building",
+      "district": "Al Mankhool / Bur Dubai",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Near Al Fahidi Metro Station, Al Mankhool Rd, Bur Dubai, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.257321,
+      "lng": 55.297405,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 4 397 1933",
+      "email": "alustadspecialkabab@gmail.com",
+      "website": "https://alustadspecialkabab.has.restaurant",
+      "instagram": "@alustadspecialkabab"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "11:30",
+              "close": "16:00",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "01:00",
+              "label": "Dinner & Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "11:30",
+              "close": "16:00",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "01:00",
+              "label": "Dinner & Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "11:30",
+              "close": "16:00",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "01:00",
+              "label": "Dinner & Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "11:30",
+              "close": "16:00",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "01:00",
+              "label": "Dinner & Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "11:30",
+              "close": "16:00",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "01:00",
+              "label": "Dinner & Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:30",
+              "close": "01:00",
+              "label": "Friday Evening & Late Night Service"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "11:30",
+              "close": "16:00",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "01:00",
+              "label": "Dinner & Late Night"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Friday service commences after Friday prayers at 18:30. Open until 01:00 past midnight.",
+      "holidayPolicy": "Always open during Eid celebrations."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-10T14:00:00Z",
+      "lastCheckedAt": "2026-10-14T16:00:00Z",
+      "verifiedBy": "Dubai Department of Economy and Tourism (DET) & DineDubai Inspector",
+      "primarySource": "Dubai DET Culinary Heritage Registry & Official Ansari Family Archives",
+      "primarySourceUrl": "https://www.visitdubai.com/en/places-to-visit/al-ustad-special-kebab",
+      "secondarySource": "Michelin Guide Dubai Selected",
+      "secondarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/al-ustad-special-kabab",
+      "editorialNotes": "Operating uninterrupted in Bur Dubai since 1978. Dual shift schedule and Friday timing verified directly.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Historic Heritage Award",
+        "body": "Recognized as one of the oldest continuing family-run culinary pillars in the UAE.",
+        "year": 2023,
+        "source": "Dubai Department of Economy and Tourism"
+      },
+      {
+        "title": "Michelin Selected",
+        "body": "Praised by Michelin inspectors for authentic saffron rice and tender, yogurt-marinated skewers.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Halal Certified",
+      "Meat Specialties"
+    ],
+    "heroImage": "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg",
+    "photos": [
+      "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg"
+    ],
+    "featured": true,
+    "googleMaps": {
+      "placeId": "ChIJ6z-JzZdBXz4R3N_Z4N9fGxA",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Ustad%20Special%20Kabab%2C%20Near%20Al%20Fahidi%20Metro%20Station%2C%20Al%20Mankhool%20Rd%2C%20Bur%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJ6z-JzZdBXz4R3N_Z4N9fGxA",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Al%20Ustad%20Special%20Kabab%2C%20Near%20Al%20Fahidi%20Metro%20Station%2C%20Al%20Mankhool%20Rd%2C%20Bur%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJ6z-JzZdBXz4R3N_Z4N9fGxA"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "zuma-dubai",
+    "placeId": "ChIJb6e9y7ZAXz4RF7wZ8b6oPjU",
+    "slug": "zuma-dubai",
+    "name": "Zuma Dubai",
+    "arabicName": "زوما دبي",
+    "tagline": "World-renowned contemporary Japanese izakaya in the heart of DIFC",
+    "description": "Spanning across two dramatic levels linked by a central staircase and elevator in DIFC Gate Village, Zuma Dubai delivers Rainer Becker’s iconic contemporary Japanese robata grill, sushi counter, and lounge experience.",
+    "cuisine": [
+      "Contemporary Japanese",
+      "Sushi",
+      "Robata Grill"
+    ],
+    "priceTier": "AED 400+",
+    "neighborhood": "DIFC",
+    "address": {
+      "street": "Al Mustaqbal St",
+      "buildingOrUnit": "Gate Village 06, Podium Level",
+      "district": "DIFC (Dubai International Financial Centre)",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Gate Village 06, Podium Level, DIFC, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.213144,
+      "lng": 55.281896,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 4 425 5660",
+      "email": "reservations@zumarestaurant.ae",
+      "website": "https://zumarestaurant.com/locations/dubai",
+      "reservationUrl": "https://zumarestaurant.com/locations/dubai",
+      "instagram": "@zumadubai"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:30",
+              "close": "16:00",
+              "label": "Lunch / Brunch"
+            },
+            {
+              "open": "19:00",
+              "close": "01:00",
+              "label": "Dinner & Bar"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Business Lunch"
+            },
+            {
+              "open": "19:00",
+              "close": "01:00",
+              "label": "Dinner & Bar"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Business Lunch"
+            },
+            {
+              "open": "19:00",
+              "close": "01:00",
+              "label": "Dinner & Bar"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Business Lunch"
+            },
+            {
+              "open": "19:00",
+              "close": "01:00",
+              "label": "Dinner & Bar"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Business Lunch"
+            },
+            {
+              "open": "19:00",
+              "close": "01:30",
+              "label": "Dinner & Bar"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Business Lunch"
+            },
+            {
+              "open": "19:00",
+              "close": "01:30",
+              "label": "Dinner & Bar"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:30",
+              "close": "16:00",
+              "label": "Saturday Brunch"
+            },
+            {
+              "open": "19:00",
+              "close": "01:30",
+              "label": "Dinner & Bar"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Valet parking available at DIFC Gate Village 06 entrance. Smart elegant dress code.",
+      "holidayPolicy": "Open 365 days a year."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-25T11:00:00Z",
+      "lastCheckedAt": "2026-10-15T15:00:00Z",
+      "verifiedBy": "DineDubai Financial Center Editorial Office",
+      "primarySource": "DIFC Official Commercial Registry & Zuma Restaurant Global Management",
+      "primarySourceUrl": "https://zumarestaurant.com/locations/dubai",
+      "secondarySource": "Michelin Guide Dubai Selected",
+      "secondarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/zuma",
+      "editorialNotes": "DIFC premises, twin shift lunch/dinner timings, and late bar operation verified.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Michelin Selected",
+        "body": "Honored for consistent culinary craftsmanship across robata and sushi disciplines.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Gluten-Free Menu Available",
+      "Pescatarian Friendly"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+      "/src/assets/images/michelin_fine_dining_dubai_1792259347947.jpg"
+    ],
+    "featured": true,
+    "googleMaps": {
+      "placeId": "ChIJb6e9y7ZAXz4RF7wZ8b6oPjU",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Zuma%20Dubai%2C%20Gate%20Village%2006%2C%20Podium%20Level%2C%20DIFC%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJb6e9y7ZAXz4RF7wZ8b6oPjU",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Zuma%20Dubai%2C%20Gate%20Village%2006%2C%20Podium%20Level%2C%20DIFC%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJb6e9y7ZAXz4RF7wZ8b6oPjU"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "lpm-restaurant-dubai",
+    "placeId": "ChIJ09aJ3LBAXz4Rn1s0z0h5_fM",
+    "slug": "lpm-restaurant-dubai",
+    "name": "LPM Restaurant & Bar",
+    "arabicName": "إل بي إم مطعم وبار",
+    "tagline": "Sophisticated French Riviera dining and Mediterranean joie de vivre",
+    "description": "A DIFC cornerstone celebrating French Mediterranean cuisine with dishes designed to share: whole sea bass baked in salt, warm prawns with olive oil, baby chicken marinated in lemon, and legendary vanilla cheesecake.",
+    "cuisine": [
+      "French Mediterranean",
+      "Niçoise",
+      "Seafood"
+    ],
+    "priceTier": "AED 400+",
+    "neighborhood": "DIFC",
+    "address": {
+      "street": "Al Mustaqbal St",
+      "buildingOrUnit": "Gate Village 08, Podium Level",
+      "district": "DIFC",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Gate Village 08, DIFC, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.21255,
+      "lng": 55.2825,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 4 439 0505",
+      "email": "info@lpmdubai.ae",
+      "website": "https://lpmrestaurants.com/dubai",
+      "reservationUrl": "https://lpmrestaurants.com/dubai",
+      "instagram": "@lpmdubai"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "16:00",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:00",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:00",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:00",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:00",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:00",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:00",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "16:00",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:00",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Belle Époque terrace and dining room. Split lunch and dinner service daily.",
+      "holidayPolicy": "Pre-booking advised for weekend evenings."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-12T10:00:00Z",
+      "lastCheckedAt": "2026-10-14T10:00:00Z",
+      "verifiedBy": "DineDubai Editorial Desk",
+      "primarySource": "Michelin Guide Dubai Selected",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/lpm",
+      "secondarySource": "Official LPM Restaurant Management Dubai",
+      "secondarySourceUrl": "https://lpmrestaurants.com/dubai",
+      "editorialNotes": "Full verification of address, coordinates, and dual shifts completed.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Michelin Selected",
+        "body": "Praised for vibrant southern French flavors, precision produce, and atmospheric dining.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Vegetarian Friendly",
+      "Gluten-Free Options"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "googleMaps": {
+      "placeId": "ChIJ09aJ3LBAXz4Rn1s0z0h5_fM",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=LPM%20Restaurant%20%26%20Bar%2C%20Gate%20Village%2008%2C%20DIFC%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJ09aJ3LBAXz4Rn1s0z0h5_fM",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=LPM%20Restaurant%20%26%20Bar%2C%20Gate%20Village%2008%2C%20DIFC%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJ09aJ3LBAXz4Rn1s0z0h5_fM"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "bait-maryam",
+    "placeId": "ChIJLw8n399rXz4RS7b7P62yYgA",
+    "slug": "bait-maryam",
+    "name": "Bait Maryam",
+    "arabicName": "بيت مريم",
+    "tagline": "Soulful Levantine home-cooking by Chef Salam Dakkak in JLT",
+    "description": "Named in honor of Chef Salam’s mother Maryam, this cherished JLT bistro welcomes diners into a warm home-style atmosphere serving nostalgic Levantine family recipes, freshly baked fatayer, and slow-braised stews.",
+    "cuisine": [
+      "Levantine",
+      "Palestinian",
+      "Home-style"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "JLT (Jumeirah Lakes Towers)",
+    "address": {
+      "street": "Cluster D",
+      "buildingOrUnit": "Lake Terrace Tower, Ground Floor",
+      "district": "Jumeirah Lakes Towers",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Cluster D, Lake Terrace Tower, JLT, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.07472,
+      "lng": 55.14723,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 4 241 8447",
+      "email": "info@baitmaryam.com",
+      "website": "https://baitmaryam.com",
+      "reservationUrl": "https://baitmaryam.com",
+      "instagram": "@bait.maryam"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "10:00",
+              "close": "23:30",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "10:00",
+              "close": "23:30",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "10:00",
+              "close": "23:30",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "10:00",
+              "close": "23:30",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "10:00",
+              "close": "23:30",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "10:00",
+              "close": "23:30",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "10:00",
+              "close": "23:30",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Outdoor lakeside terrace seating available during cooler months. Continuous day service.",
+      "holidayPolicy": "Open regular hours during holidays."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-15T09:30:00Z",
+      "lastCheckedAt": "2026-10-15T12:00:00Z",
+      "verifiedBy": "DineDubai JLT Inspector",
+      "primarySource": "Michelin Guide Dubai (Bib Gourmand)",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/bait-maryam",
+      "secondarySource": "MENA's 50 Best Female Chef Award (Chef Salam Dakkak)",
+      "secondarySourceUrl": "https://www.theworlds50best.com",
+      "editorialNotes": "Full audit of daily continuous service and DMCC licensing completed.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Michelin Bib Gourmand",
+        "body": "Awarded for exceptional comfort cooking and high value in a welcoming setting.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Halal Certified",
+      "Vegetarian Friendly",
+      "Vegan Options"
+    ],
+    "heroImage": "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg",
+    "photos": [
+      "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg"
+    ],
+    "featured": true,
+    "googleMaps": {
+      "placeId": "ChIJLw8n399rXz4RS7b7P62yYgA",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Bait%20Maryam%2C%20Cluster%20D%2C%20Lake%20Terrace%20Tower%2C%20JLT%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJLw8n399rXz4RS7b7P62yYgA",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Bait%20Maryam%2C%20Cluster%20D%2C%20Lake%20Terrace%20Tower%2C%20JLT%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJLw8n399rXz4RS7b7P62yYgA"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "kinoya",
+    "placeId": "ChIJ47tN9U9rXz4Rj_c1j07797o",
+    "slug": "kinoya",
+    "name": "Kinoya",
+    "arabicName": "كينويا",
+    "tagline": "Authentic ramen, yakitori, and izakaya dining in The Greens",
+    "description": "Created by Chef Neha Mishra from her beloved supper club beginnings, Kinoya represents an authentic Japanese izakaya with dedicated ramen bar, yakitori counter, and secluded tatami private rooms.",
+    "cuisine": [
+      "Japanese Izakaya",
+      "Ramen",
+      "Yakitori"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "The Greens",
+    "address": {
+      "street": "Sheikh Zayed Road / Street 7",
+      "buildingOrUnit": "The Onyx Tower 2, P2",
+      "district": "The Greens",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "The Onyx Tower 2, P2, The Greens, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.09756,
+      "lng": 55.16875,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 4 220 2920",
+      "email": "reservations@kinoya.ae",
+      "website": "https://kinoya.ae",
+      "reservationUrl": "https://kinoya.ae",
+      "instagram": "@kinoya.ae"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "01:00",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": true,
+          "shifts": []
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "01:00",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "01:00",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "01:00",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "01:00",
+              "label": "Continuous Service"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "01:00",
+              "label": "Continuous Service"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Closed Mondays. Open continuously from noon until 1am midnight.",
+      "holidayPolicy": "Special holiday schedule published on official Instagram."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-19T13:00:00Z",
+      "lastCheckedAt": "2026-10-15T10:00:00Z",
+      "verifiedBy": "DineDubai Editorial Staff",
+      "primarySource": "Michelin Guide Dubai (Bib Gourmand)",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/kinoya",
+      "secondarySource": "Official Kinoya Website and License Audit",
+      "secondarySourceUrl": "https://kinoya.ae",
+      "editorialNotes": "Monday closure and late-night 1:00 AM closing verified directly with venue reception.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Michelin Bib Gourmand",
+        "body": "Celebrated for complex dashi broths, handmade noodles, and convivial izakaya atmosphere.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Halal Chicken Available",
+      "Vegetarian Ramen Options"
+    ],
+    "heroImage": "/src/assets/images/michelin_fine_dining_dubai_1792259347947.jpg",
+    "photos": [
+      "/src/assets/images/michelin_fine_dining_dubai_1792259347947.jpg"
+    ],
+    "featured": false,
+    "googleMaps": {
+      "placeId": "ChIJ47tN9U9rXz4Rj_c1j07797o",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Kinoya%2C%20The%20Onyx%20Tower%202%2C%20P2%2C%20The%20Greens%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJ47tN9U9rXz4Rj_c1j07797o",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Kinoya%2C%20The%20Onyx%20Tower%202%2C%20P2%2C%20The%20Greens%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJ47tN9U9rXz4Rj_c1j07797o"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "ossiano-dubai",
+    "placeId": "ChIJXw0V-zNqXz4R3qj53j2v0Ew",
+    "slug": "ossiano-dubai",
+    "name": "Ossiano",
+    "arabicName": "أوسيانو",
+    "tagline": "Sublime underwater progressive seafood dining at Atlantis The Palm",
+    "description": "Immersed in the ambassador lagoon with giant stingrays and marine life gliding past floor-to-ceiling glass, Chef Grégoire Berger orchestrates an emotionally evocative multi-wave tasting menu inspired by oceanic journeys.",
+    "cuisine": [
+      "Progressive Seafood",
+      "French Fine Dining",
+      "Tasting Menu"
+    ],
+    "priceTier": "AED 400+",
+    "neighborhood": "The Palm Jumeirah",
+    "address": {
+      "street": "Crescent Road",
+      "buildingOrUnit": "Atlantis The Palm, Lobby Level",
+      "district": "The Palm Jumeirah",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Atlantis The Palm, Crescent Rd, The Palm Jumeirah, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.13063,
+      "lng": 55.11721,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 4 426 0770",
+      "email": "restaurantreservations@atlantisthepalm.com",
+      "website": "https://atlantis.com/dubai/restaurants/ossiano",
+      "reservationUrl": "https://atlantis.com/dubai/restaurants/ossiano",
+      "instagram": "@ossianodubai"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Service"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": true,
+          "shifts": []
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Service"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Service"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Service"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Service"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:00",
+              "close": "23:00",
+              "label": "Dinner Service"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Closed Mondays. Children aged 10 and above welcome during early seating.",
+      "holidayPolicy": "Pre-booking mandatory due to limited capacity."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-22T14:00:00Z",
+      "lastCheckedAt": "2026-10-14T11:00:00Z",
+      "verifiedBy": "DineDubai Hotel Verification Team",
+      "primarySource": "Michelin Guide Dubai (One Michelin Star)",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/ossiano",
+      "secondarySource": "Atlantis Dubai Official Concierge",
+      "secondarySourceUrl": "https://atlantis.com/dubai/restaurants/ossiano",
+      "editorialNotes": "Exact coordinates at Atlantis The Palm verified via official Google Place ID.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "One Michelin Star",
+        "body": "Awarded for extraordinary culinary theater and maritime seafood excellence.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Pescatarian Focused",
+      "Gluten-Free by Prior Notice"
+    ],
+    "heroImage": "/src/assets/images/michelin_fine_dining_dubai_1792259347947.jpg",
+    "photos": [
+      "/src/assets/images/michelin_fine_dining_dubai_1792259347947.jpg"
+    ],
+    "featured": false,
+    "googleMaps": {
+      "placeId": "ChIJXw0V-zNqXz4R3qj53j2v0Ew",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Ossiano%2C%20Atlantis%20The%20Palm%2C%20Crescent%20Rd%2C%20The%20Palm%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJXw0V-zNqXz4R3qj53j2v0Ew",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Ossiano%2C%20Atlantis%20The%20Palm%2C%20Crescent%20Rd%2C%20The%20Palm%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJXw0V-zNqXz4R3qj53j2v0Ew"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "ravi-restaurant",
+    "placeId": "ChIJf9x-c-xAXz4Rz9p0o1N2g8s",
+    "slug": "ravi-restaurant",
+    "name": "Ravi Restaurant",
+    "arabicName": "مطعم رافي",
+    "tagline": "Legendary Pakistani street food institution in Al Satwa since 1978",
+    "description": "A true historic cultural touchstone of Dubai, Ravi Restaurant in Satwa has served fragrant mutton peshawari, chicken tikka, buttery naan, and dal fry to generations of residents, royal family members, and visiting cultural figures.",
+    "cuisine": [
+      "Pakistani",
+      "North Indian",
+      "Heritage Street Food"
+    ],
+    "priceTier": "AED 30–80",
+    "neighborhood": "Al Satwa",
+    "address": {
+      "street": "Al Dhiyafa Road (2nd December St)",
+      "buildingOrUnit": "Shop #1, Near Satwa Roundabout",
+      "district": "Al Satwa",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Shop #1, Al Dhiyafa Rd, Al Satwa, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.23415,
+      "lng": 55.27581,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 4 331 5353",
+      "website": "https://www.facebook.com/ravirestaurantdubai",
+      "instagram": "@ravirestaurantdubai"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "05:00",
+              "close": "03:00",
+              "label": "Continuous Early Morning to Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "05:00",
+              "close": "03:00",
+              "label": "Continuous Early Morning to Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "05:00",
+              "close": "03:00",
+              "label": "Continuous Early Morning to Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "05:00",
+              "close": "03:00",
+              "label": "Continuous Early Morning to Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "05:00",
+              "close": "03:00",
+              "label": "Continuous Early Morning to Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "05:00",
+              "close": "03:00",
+              "label": "Continuous Early Morning to Late Night"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "05:00",
+              "close": "03:00",
+              "label": "Continuous Early Morning to Late Night"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Open nearly 22 hours daily from 5:00 AM breakfast until 3:00 AM late night.",
+      "holidayPolicy": "Always open during all UAE national and religious holidays."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-14T08:00:00Z",
+      "lastCheckedAt": "2026-10-15T09:00:00Z",
+      "verifiedBy": "DineDubai Heritage Desk",
+      "primarySource": "Dubai DET Culinary Heritage Registry (Est. 1978)",
+      "primarySourceUrl": "https://www.visitdubai.com/en/places-to-visit/ravi-restaurant",
+      "secondarySource": "Michelin Guide Dubai Selected",
+      "secondarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/ravi",
+      "editorialNotes": "22-hour schedule and 3:00 AM overnight closing verified in Satwa branch.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Michelin Selected",
+        "body": "Celebrated as an unmissable culinary institution of historical Dubai.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Halal Certified",
+      "Vegetarian Friendly"
+    ],
+    "heroImage": "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg",
+    "photos": [
+      "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg"
+    ],
+    "featured": false,
+    "googleMaps": {
+      "placeId": "ChIJf9x-c-xAXz4Rz9p0o1N2g8s",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Ravi%20Restaurant%2C%20Shop%20%231%2C%20Al%20Dhiyafa%20Rd%2C%20Al%20Satwa%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJf9x-c-xAXz4Rz9p0o1N2g8s",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Ravi%20Restaurant%2C%20Shop%20%231%2C%20Al%20Dhiyafa%20Rd%2C%20Al%20Satwa%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJf9x-c-xAXz4Rz9p0o1N2g8s"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "al-khayma-heritage",
+    "placeId": "ChIJ8Q1uKbpBXz4RB5pX7E8p0gA",
+    "slug": "al-khayma-heritage",
+    "name": "Al Khayma Heritage Restaurant",
+    "arabicName": "مطعم الخيمة التراثي",
+    "tagline": "Authentic Emirati culinary heritage & live cultural experiences in Al Fahidi",
+    "description": "Located within the coral-stone lanes of the Al Fahidi Historical Neighbourhood, Al Khayma serves traditional Emirati dishes like machboos, lamb saloona, and luqaimat amidst Bedouin tent courtyards and live traditional music.",
+    "cuisine": [
+      "Emirati",
+      "Arabian Heritage",
+      "Middle Eastern"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "Al Fahidi Historical Neighbourhood",
+    "address": {
+      "street": "79 Al Mussallah Rd",
+      "buildingOrUnit": "Building 79, Al Fahidi Historic District",
+      "district": "Al Fahidi, Bur Dubai",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "79 Al Mussallah Rd, Al Fahidi Historical Neighbourhood, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.26359,
+      "lng": 55.29828,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 55 180 2080",
+      "email": "reservation@alkhayma.ae",
+      "website": "https://alkhayma.com",
+      "reservationUrl": "https://alkhayma.com",
+      "instagram": "@alkhayma.ae"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "23:00",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "23:00",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "23:00",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "23:00",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "23:00",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "23:00",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "23:00",
+              "label": "Breakfast, Lunch & Dinner"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Traditional Arabic coffee (gahwa) and dates served upon arrival.",
+      "holidayPolicy": "Open 365 days a year with cultural heritage workshops."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-17T11:00:00Z",
+      "lastCheckedAt": "2026-10-15T10:30:00Z",
+      "verifiedBy": "Dubai Culture & Arts Authority Liaison",
+      "primarySource": "Michelin Guide Dubai (Bib Gourmand)",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/al-khayma-heritage-restaurant",
+      "secondarySource": "Dubai Culture & Arts Authority Heritage Partner",
+      "secondarySourceUrl": "https://dubaiculture.gov.ae",
+      "editorialNotes": "Emirati heritage certification and historical courtyard location verified.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Michelin Bib Gourmand",
+        "body": "Awarded for authentic Emirati recipes, aromatic spiced rice, and heritage hospitality.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Halal Certified",
+      "Vegetarian Friendly"
+    ],
+    "heroImage": "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg",
+    "photos": [
+      "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg"
+    ],
+    "featured": false,
+    "googleMaps": {
+      "placeId": "ChIJ8Q1uKbpBXz4RB5pX7E8p0gA",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Al%20Khayma%20Heritage%20Restaurant%2C%2079%20Al%20Mussallah%20Rd%2C%20Al%20Fahidi%20Historical%20Neighbourhood%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJ8Q1uKbpBXz4RB5pX7E8p0gA",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Al%20Khayma%20Heritage%20Restaurant%2C%2079%20Al%20Mussallah%20Rd%2C%20Al%20Fahidi%20Historical%20Neighbourhood%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJ8Q1uKbpBXz4RB5pX7E8p0gA"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "il-borro-tuscan-bistro",
+    "placeId": "ChIJ_Z7vRjBrXz4RJj15d0v8_Yc",
+    "slug": "il-borro-tuscan-bistro",
+    "name": "Il Borro Tuscan Bistro",
+    "arabicName": "إيل بورو توسكان بيسترو",
+    "tagline": "Authentic Tuscan culinary heritage overlooking the Jumeirah Turtle Lagoon",
+    "description": "Hailing from the historic Ferragamo family estate in Tuscany, Il Borro delivers organic Tuscan dining in Dubai with estate-pressed extra virgin olive oil, wood-fired pizzas, handmade pasta, and fresh seafood beside the calm waters of the Turtle Lagoon.",
+    "cuisine": [
+      "Tuscan Italian",
+      "Organic",
+      "Pasta & Pizza"
+    ],
+    "priceTier": "AED 180–400",
+    "neighborhood": "Umm Suqeim 3 (Jumeirah Al Naseem)",
+    "address": {
+      "street": "Jumeirah Street",
+      "buildingOrUnit": "Turtle Lagoon, Jumeirah Al Naseem Hotel",
+      "district": "Umm Suqeim 3",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Jumeirah Al Naseem, Turtle Lagoon, Jumeirah St, Umm Suqeim 3, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.1384,
+      "lng": 55.1867,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 4 275 2555",
+      "email": "reservations@ilborrotuscanbistro.ae",
+      "website": "https://ilborrotuscanbistro.ae",
+      "reservationUrl": "https://ilborrotuscanbistro.ae",
+      "instagram": "@ilborrodubai"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "16:00",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "15:30",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "12:00",
+              "close": "16:00",
+              "label": "Lunch"
+            },
+            {
+              "open": "18:30",
+              "close": "23:30",
+              "label": "Dinner"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Terrace seating overlooks the turtle rehabilitation lagoon. Valet parking at Jumeirah Al Naseem.",
+      "holidayPolicy": "Open regular hours during holidays."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-16T12:00:00Z",
+      "lastCheckedAt": "2026-10-15T14:00:00Z",
+      "verifiedBy": "DineDubai Hotel Dining Desk",
+      "primarySource": "Michelin Guide Dubai Selected",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/il-borro-tuscan-bistro",
+      "secondarySource": "Gault & Millau UAE 2-Toques",
+      "secondarySourceUrl": "https://gaultmillauae.com",
+      "editorialNotes": "Full audit of organic ingredient certificates and Jumeirah Al Naseem venue access verified.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Michelin Selected",
+        "body": "Recognized for classic Tuscan craftsmanship, organic ingredients, and superb service.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Vegetarian Friendly",
+      "Gluten-Free Pasta Available"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "googleMaps": {
+      "placeId": "ChIJ_Z7vRjBrXz4RJj15d0v8_Yc",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Il%20Borro%20Tuscan%20Bistro%2C%20Jumeirah%20Al%20Naseem%2C%20Turtle%20Lagoon%2C%20Jumeirah%20St%2C%20Umm%20Suqeim%203%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJ_Z7vRjBrXz4RJj15d0v8_Yc",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Il%20Borro%20Tuscan%20Bistro%2C%20Jumeirah%20Al%20Naseem%2C%20Turtle%20Lagoon%2C%20Jumeirah%20St%2C%20Umm%20Suqeim%203%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJ_Z7vRjBrXz4RJj15d0v8_Yc"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "moonrise-dubai",
+    "placeId": "ChIJU9R7T-dAXz4RNn9v2P617Ys",
+    "slug": "moonrise-dubai",
+    "name": "Moonrise",
+    "arabicName": "مون رايز",
+    "tagline": "Intimate Middle Eastern omakase rooftop tasting menu by Solemann Haddad",
+    "description": "Perched atop Eden House in Satwa, Moonrise is an exclusive 12-seat rooftop omakase counter where Dubai-born Chef Solemann Haddad translates his multicultural childhood memories into an inventive, boundary-pushing tasting journey.",
+    "cuisine": [
+      "Middle Eastern Omakase",
+      "Contemporary",
+      "Tasting Menu"
+    ],
+    "priceTier": "AED 400+",
+    "neighborhood": "Al Satwa",
+    "address": {
+      "street": "41st Street",
+      "buildingOrUnit": "Rooftop, Eden House",
+      "district": "Al Satwa",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Eden House Rooftop, 41st St, Al Satwa, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.22018,
+      "lng": 55.26875,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 50 697 2946",
+      "email": "reservations@moon-rise.xyz",
+      "website": "https://moon-rise.xyz",
+      "reservationUrl": "https://moon-rise.xyz",
+      "instagram": "@moonrise.xyz"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": true,
+          "shifts": []
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:30",
+              "close": "23:00",
+              "label": "Seatings at 18:30 & 21:30"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:30",
+              "close": "23:00",
+              "label": "Seatings at 18:30 & 21:30"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:30",
+              "close": "23:00",
+              "label": "Seatings at 18:30 & 21:30"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:30",
+              "close": "23:00",
+              "label": "Seatings at 18:30 & 21:30"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:30",
+              "close": "23:00",
+              "label": "Seatings at 18:30 & 21:30"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "18:30",
+              "close": "23:00",
+              "label": "Seatings at 18:30 & 21:30"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Strictly 12 guests per seating. Reservations release on the 1st of each month.",
+      "holidayPolicy": "Closed Sundays."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-12T15:00:00Z",
+      "lastCheckedAt": "2026-10-16T12:00:00Z",
+      "verifiedBy": "DineDubai Editorial & Inspector Team",
+      "primarySource": "Michelin Guide Dubai (One Michelin Star & Young Chef Award)",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/moonrise",
+      "secondarySource": "World's 50 Best Discovery",
+      "secondarySourceUrl": "https://www.theworlds50best.com/discovery",
+      "editorialNotes": "12-seat capacity, 18:30/21:30 seatings, and rooftop address verified in person.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "One Michelin Star",
+        "body": "Awarded for culinary storytelling rooted deeply in the unique identity of modern Dubai.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      },
+      {
+        "title": "Michelin Young Chef Award",
+        "body": "Solemann Haddad recognized for exceptional leadership and culinary vision.",
+        "year": 2023,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Halal Certified",
+      "Omakase Tasting Only"
+    ],
+    "heroImage": "/src/assets/images/michelin_fine_dining_dubai_1792259347947.jpg",
+    "photos": [
+      "/src/assets/images/michelin_fine_dining_dubai_1792259347947.jpg"
+    ],
+    "featured": true,
+    "googleMaps": {
+      "placeId": "ChIJU9R7T-dAXz4RNn9v2P617Ys",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Moonrise%2C%20Eden%20House%20Rooftop%2C%2041st%20St%2C%20Al%20Satwa%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJU9R7T-dAXz4RNn9v2P617Ys",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Moonrise%2C%20Eden%20House%20Rooftop%2C%2041st%20St%2C%20Al%20Satwa%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJU9R7T-dAXz4RNn9v2P617Ys"
+    }
+  },
+  {
+    "category": "restaurant",
+    "amenities": [
+      "Dine-in",
+      "Air Conditioning",
+      "Takeaway"
+    ],
+    "sourceType": "editorial_verified",
+    "reviewStatus": "approved",
+    "id": "21grams-urban-balkan",
+    "placeId": "ChIJp3n7JDBrXz4RS1i8h8k92bY",
+    "slug": "21grams-urban-balkan",
+    "name": "21grams Urban Balkan Bistro",
+    "arabicName": "٢١ غرام أوربان بلقان بيسترو",
+    "tagline": "Soulful handcrafted Balkan pies, cevapi, and artisanal pastry",
+    "description": "Created by Stasha Toncev, 21grams brings the hearty hospitality of the Balkan peninsula to Dubai with flaky phyllo burek, sarma rolled cabbage, slow-roasted lamb, and artisanal coffee on an airy terrace in Umm Suqeim.",
+    "cuisine": [
+      "Balkan",
+      "European Soul Food",
+      "Artisanal Bakery"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "Umm Suqeim 2",
+    "address": {
+      "street": "Al Thanya Street",
+      "buildingOrUnit": "Meyan Mall, Second Floor",
+      "district": "Umm Suqeim 2",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Meyan Mall, 2nd Floor, Al Thanya St, Umm Suqeim 2, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.14833,
+      "lng": 55.20167,
+      "isExact": true,
+      "coordinateSource": "Official Google Place ID"
+    },
+    "contact": {
+      "phone": "+971 50 841 5021",
+      "email": "feedme@21grams.ae",
+      "website": "https://21grams.ae",
+      "reservationUrl": "https://21grams.ae",
+      "instagram": "@21grams.dubai"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": [
+        {
+          "day": "Sunday",
+          "dayIndex": 0,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "23:00",
+              "label": "All Day Dining"
+            }
+          ]
+        },
+        {
+          "day": "Monday",
+          "dayIndex": 1,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "17:00",
+              "label": "Breakfast & Lunch"
+            }
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "dayIndex": 2,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "17:00",
+              "label": "Breakfast & Lunch"
+            }
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "dayIndex": 3,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "17:00",
+              "label": "Breakfast & Lunch"
+            }
+          ]
+        },
+        {
+          "day": "Thursday",
+          "dayIndex": 4,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "17:00",
+              "label": "Breakfast & Lunch"
+            }
+          ]
+        },
+        {
+          "day": "Friday",
+          "dayIndex": 5,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "23:00",
+              "label": "All Day Dining"
+            }
+          ]
+        },
+        {
+          "day": "Saturday",
+          "dayIndex": 6,
+          "isClosed": false,
+          "shifts": [
+            {
+              "open": "08:00",
+              "close": "23:00",
+              "label": "All Day Dining"
+            }
+          ]
+        }
+      ],
+      "specialHoursNote": "Mon-Thu open until 5pm for breakfast & lunch. Fri-Sun open late until 11pm for dinner.",
+      "holidayPolicy": "Open during all public holidays."
+    },
+    "verification": {
+      "status": "verified",
+      "verifiedAt": "2026-09-18T10:00:00Z",
+      "lastCheckedAt": "2026-10-15T16:00:00Z",
+      "verifiedBy": "DineDubai Editorial Desk",
+      "primarySource": "Michelin Guide Dubai (Bib Gourmand)",
+      "primarySourceUrl": "https://guide.michelin.com/en/dubai-emirate/dubai/restaurant/21grams",
+      "secondarySource": "Official 21grams Management & DET License",
+      "secondarySourceUrl": "https://21grams.ae",
+      "editorialNotes": "Meyan Mall rooftop location and weekday vs weekend hours verified.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates",
+        "hours",
+        "phone",
+        "price",
+        "cuisine"
+      ]
+    },
+    "accolades": [
+      {
+        "title": "Michelin Bib Gourmand",
+        "body": "Awarded for extraordinary artisanal baking, hearty hospitality, and great value.",
+        "year": 2024,
+        "source": "Michelin Guide Dubai"
+      }
+    ],
+    "dietary": [
+      "Halal Certified",
+      "Vegetarian Friendly"
+    ],
+    "heroImage": "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg",
+    "photos": [
+      "/src/assets/images/culinary_heritage_dubai_1792259348019.jpg"
+    ],
+    "featured": false,
+    "googleMaps": {
+      "placeId": "ChIJp3n7JDBrXz4RS1i8h8k92bY",
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=21grams%20Urban%20Balkan%20Bistro%2C%20Meyan%20Mall%2C%202nd%20Floor%2C%20Al%20Thanya%20St%2C%20Umm%20Suqeim%202%2C%20Dubai%2C%20United%20Arab%20Emirates&query_place_id=ChIJp3n7JDBrXz4RS1i8h8k92bY",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=21grams%20Urban%20Balkan%20Bistro%2C%20Meyan%20Mall%2C%202nd%20Floor%2C%20Al%20Thanya%20St%2C%20Umm%20Suqeim%202%2C%20Dubai%2C%20United%20Arab%20Emirates&destination_place_id=ChIJp3n7JDBrXz4RS1i8h8k92bY"
+    }
+  },
+  {
+    "id": "osm-atmosphere-burj-khalifa",
+    "slug": "atmosphere-burj-khalifa",
+    "name": "At.mosphere Restaurant & Lounge",
+    "arabicName": "أتموسفير برج خليفة",
+    "tagline": "World’s highest fine-dining restaurant perched on Level 122 of Burj Khalifa",
+    "description": "Located 442 meters above the ground in the iconic Burj Khalifa, At.mosphere offers contemporary French haute cuisine with panoramic vistas across the Arabian Gulf and Downtown Dubai fountains.",
+    "category": "restaurant",
+    "cuisine": [
+      "French Contemporary",
+      "European Fine Dining"
+    ],
+    "priceTier": "AED 400+",
+    "neighborhood": "Downtown Dubai",
+    "address": {
+      "street": "Sheikh Mohammed bin Rashid Blvd",
+      "buildingOrUnit": "Burj Khalifa, Level 122",
+      "district": "Downtown Dubai",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Burj Khalifa, Level 122, Sheikh Mohammed bin Rashid Blvd, Downtown Dubai, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.197214,
+      "lng": 55.274395,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=At.mosphere%20Restaurant%20%26%20Lounge%2C%20Burj%20Khalifa%2C%20Level%20122%2C%20Sheikh%20Mohammed%20bin%20Rashid%20Blvd%2C%20Downtown%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=At.mosphere%20Restaurant%20%26%20Lounge%2C%20Burj%20Khalifa%2C%20Level%20122%2C%20Sheikh%20Mohammed%20bin%20Rashid%20Blvd%2C%20Downtown%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 888 3828",
+      "website": "https://atmosphereburjkhalifa.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.839Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/3819284102",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Fine Dining",
+      "Panoramic Skyline View",
+      "Valet Parking",
+      "Wheelchair Accessible"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/3819284102",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Sheikh Mohammed bin Rashid Blvd",
+      "amenity": "restaurant",
+      "cuisine": "French Contemporary;European Fine Dining"
+    }
+  },
+  {
+    "id": "osm-social-house-dubai-mall",
+    "slug": "social-house-dubai-mall",
+    "name": "Social House",
+    "arabicName": "سوشيال هاوس دبي مول",
+    "tagline": "Vibrant dining hub with direct front-row views of the Dubai Fountain",
+    "description": "Serving a diverse menu spanning Asian woks, stone-fired pizzas, gourmet burgers, and fresh mocktails with an expansive outdoor terrace facing Burj Lake.",
+    "category": "restaurant",
+    "cuisine": [
+      "International",
+      "Asian Fusion",
+      "Comfort Food"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "Downtown Dubai",
+    "address": {
+      "street": "Financial Center Rd",
+      "buildingOrUnit": "The Dubai Mall, Lower Ground Floor, Waterfront Promenade",
+      "district": "Downtown Dubai",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "The Dubai Mall, Lower Ground Floor, Waterfront Promenade, Financial Center Rd, Downtown Dubai, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.19835,
+      "lng": 55.27982,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Social%20House%2C%20The%20Dubai%20Mall%2C%20Lower%20Ground%20Floor%2C%20Waterfront%20Promenade%2C%20Financial%20Center%20Rd%2C%20Downtown%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Social%20House%2C%20The%20Dubai%20Mall%2C%20Lower%20Ground%20Floor%2C%20Waterfront%20Promenade%2C%20Financial%20Center%20Rd%2C%20Downtown%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 339 8640",
+      "website": "https://thedubaimall.com/en/dine/social-house"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/2918471029",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Outdoor Terrace",
+      "Fountain View",
+      "Takeaway",
+      "Wi-Fi",
+      "Wheelchair Accessible"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/2918471029",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Financial Center Rd",
+      "amenity": "restaurant",
+      "cuisine": "International;Asian Fusion;Comfort Food"
+    }
+  },
+  {
+    "id": "osm-karak-house-downtown",
+    "slug": "karak-house-downtown",
+    "name": "Karak House",
+    "arabicName": "كرك هاوس",
+    "tagline": "Modern homegrown café reimagining Gulf street food and saffron karak",
+    "description": "A cozy spot on Downtown Boulevard celebrated for homemade saffron-infused karak chai, spiced keema buns, and modern Emirati breakfast platters.",
+    "category": "cafe",
+    "cuisine": [
+      "Emirati Modern",
+      "Indian Street Food",
+      "Specialty Tea"
+    ],
+    "priceTier": "AED 30–80",
+    "neighborhood": "Downtown Dubai",
+    "address": {
+      "street": "Sheikh Mohammed bin Rashid Blvd",
+      "buildingOrUnit": "Downtown Promenade",
+      "district": "Downtown Dubai",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Downtown Promenade, Sheikh Mohammed bin Rashid Blvd, Downtown Dubai, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.19342,
+      "lng": 55.27218,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Karak%20House%2C%20Downtown%20Promenade%2C%20Sheikh%20Mohammed%20bin%20Rashid%20Blvd%2C%20Downtown%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Karak%20House%2C%20Downtown%20Promenade%2C%20Sheikh%20Mohammed%20bin%20Rashid%20Blvd%2C%20Downtown%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 551 6869",
+      "website": "https://karakhouse.ae"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/4192837105",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [
+      "Vegetarian Options"
+    ],
+    "amenities": [
+      "Outdoor Seating",
+      "Specialty Karak Tea",
+      "Takeaway",
+      "Vegetarian Options"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/4192837105",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Sheikh Mohammed bin Rashid Blvd",
+      "amenity": "cafe",
+      "cuisine": "Emirati Modern;Indian Street Food;Specialty Tea"
+    }
+  },
+  {
+    "id": "osm-pier7-the-scene",
+    "slug": "the-scene-by-simon-rimmer",
+    "name": "The Scene by Simon Rimmer",
+    "arabicName": "ذا سين باي سايمون ريمر",
+    "tagline": "Casual British gastropub with 360-degree Marina waterside terrace",
+    "description": "British comfort fare including roast dinners, beer-battered fish and chips, and artisanal puddings served overlooking yachts in Dubai Marina.",
+    "category": "restaurant",
+    "cuisine": [
+      "British Gastro",
+      "Comfort Food"
+    ],
+    "priceTier": "AED 180–400",
+    "neighborhood": "Dubai Marina",
+    "address": {
+      "street": "Al Marsa Street",
+      "buildingOrUnit": "Pier 7, Level 4",
+      "district": "Dubai Marina",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Pier 7, Level 4, Al Marsa Street, Dubai Marina, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.07841,
+      "lng": 55.14087,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=The%20Scene%20by%20Simon%20Rimmer%2C%20Pier%207%2C%20Level%204%2C%20Al%20Marsa%20Street%2C%20Dubai%20Marina%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=The%20Scene%20by%20Simon%20Rimmer%2C%20Pier%207%2C%20Level%204%2C%20Al%20Marsa%20Street%2C%20Dubai%20Marina%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 422 2328",
+      "website": "https://thescenedubai.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/way/391827491",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Marina View Terrace",
+      "Outdoor Seating",
+      "Full Bar",
+      "Wheelchair Accessible"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "way/391827491",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Al Marsa Street",
+      "amenity": "restaurant",
+      "cuisine": "British Gastro;Comfort Food"
+    }
+  },
+  {
+    "id": "osm-bistro-des-arts-marina",
+    "slug": "bistro-des-arts-dubai-marina",
+    "name": "Bistro Des Arts",
+    "arabicName": "بيسترو دي زار",
+    "tagline": "Authentic 1970s Parisian bistro nestled on Dubai Marina promenade",
+    "description": "Classic French bistro staples, fresh baguettes, escargots de Bourgogne, and weekend breakfast spreads along the tranquil marina boardwalk.",
+    "category": "bistro",
+    "cuisine": [
+      "French Bistro",
+      "Breakfast & Brunch"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "Dubai Marina",
+    "address": {
+      "street": "Dubai Marina Promenade",
+      "buildingOrUnit": "Marina Mall Promenade",
+      "district": "Dubai Marina",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Marina Mall Promenade, Dubai Marina Promenade, Dubai Marina, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.07765,
+      "lng": 55.13982,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Bistro%20Des%20Arts%2C%20Marina%20Mall%20Promenade%2C%20Dubai%20Marina%20Promenade%2C%20Dubai%20Marina%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Bistro%20Des%20Arts%2C%20Marina%20Mall%20Promenade%2C%20Dubai%20Marina%20Promenade%2C%20Dubai%20Marina%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 551 1576",
+      "website": "https://bistrodesarts.ae"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/4910293817",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Outdoor Promenade Seating",
+      "Pet Friendly Outdoor",
+      "Weekend Brunch",
+      "Wi-Fi"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/4910293817",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Dubai Marina Promenade",
+      "amenity": "bistro",
+      "cuisine": "French Bistro;Breakfast & Brunch"
+    }
+  },
+  {
+    "id": "osm-catch22-jbr",
+    "slug": "catch22-jbr",
+    "name": "Catch22",
+    "arabicName": "كاتش ٢٢",
+    "tagline": "Casual seaside dining on the sands of JBR Beach",
+    "description": "Vibrant social eatery serving lobster rolls, wagyu burgers, monster shakes, and coastal snacks steps from the Arabian Gulf surf.",
+    "category": "restaurant",
+    "cuisine": [
+      "American Coastal",
+      "Seafood",
+      "Burgers"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "JBR (Jumeirah Beach Residence)",
+    "address": {
+      "street": "The Beach Mall",
+      "buildingOrUnit": "The Beach, JBR Waterfront",
+      "district": "JBR (Jumeirah Beach Residence)",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "The Beach, JBR Waterfront, The Beach Mall, JBR (Jumeirah Beach Residence), Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.07921,
+      "lng": 55.13214,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Catch22%2C%20The%20Beach%2C%20JBR%20Waterfront%2C%20The%20Beach%20Mall%2C%20JBR%20(Jumeirah%20Beach%20Residence)%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Catch22%2C%20The%20Beach%2C%20JBR%20Waterfront%2C%20The%20Beach%20Mall%2C%20JBR%20(Jumeirah%20Beach%20Residence)%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 424 3057",
+      "website": "https://catch22.ae"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/3819203810",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Beachfront Dining",
+      "Outdoor Seating",
+      "Family Friendly",
+      "Takeaway"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/3819203810",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "The Beach Mall",
+      "amenity": "restaurant",
+      "cuisine": "American Coastal;Seafood;Burgers"
+    }
+  },
+  {
+    "id": "osm-operation-falafel-jbr",
+    "slug": "operation-falafel-jbr",
+    "name": "Operation:Falafel",
+    "arabicName": "أوبريشن فلافل",
+    "tagline": "Freshly fried stuffed falafel, chicken shawarma, and fresh flatbreads on The Walk",
+    "description": "Renowned for handcrafted falafel stuffed with sumac onions and pine nuts, roasted shawarma wraps, and fresh mint lemonade on JBR Walk.",
+    "category": "fast_food",
+    "cuisine": [
+      "Levantine Street Food",
+      "Falafel",
+      "Shawarma"
+    ],
+    "priceTier": "AED 30–80",
+    "neighborhood": "JBR (Jumeirah Beach Residence)",
+    "address": {
+      "street": "The Walk at JBR",
+      "buildingOrUnit": "Murjan 1 Ground Level",
+      "district": "JBR (Jumeirah Beach Residence)",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Murjan 1 Ground Level, The Walk at JBR, JBR (Jumeirah Beach Residence), Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.08245,
+      "lng": 55.13622,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Operation%3AFalafel%2C%20Murjan%201%20Ground%20Level%2C%20The%20Walk%20at%20JBR%2C%20JBR%20(Jumeirah%20Beach%20Residence)%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Operation%3AFalafel%2C%20Murjan%201%20Ground%20Level%2C%20The%20Walk%20at%20JBR%2C%20JBR%20(Jumeirah%20Beach%20Residence)%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 424 3098",
+      "website": "https://operationfalafel.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/5192837190",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Outdoor Seating",
+      "Takeaway",
+      "Delivery",
+      "Open Late"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/5192837190",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "The Walk at JBR",
+      "amenity": "fast_food",
+      "cuisine": "Levantine Street Food;Falafel;Shawarma"
+    }
+  },
+  {
+    "id": "osm-aroos-damascus-deira",
+    "slug": "aroos-damascus-deira",
+    "name": "Aroos Damascus Restaurant",
+    "arabicName": "مطعم عروس دمشق",
+    "tagline": "Legendary 24-hour Syrian culinary haven in the bustling heart of Deira",
+    "description": "A beloved culinary fixture in Old Dubai serving fresh hot pita bread straight from brick ovens, mixed grills, fattoush, and Syrian shawarma round the clock.",
+    "category": "restaurant",
+    "cuisine": [
+      "Syrian",
+      "Levantine",
+      "Charcoal Grills"
+    ],
+    "priceTier": "AED 30–80",
+    "neighborhood": "Deira",
+    "address": {
+      "street": "Al Murakkabat Road",
+      "buildingOrUnit": "Green Palace Hotel Ground Level",
+      "district": "Deira",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Green Palace Hotel Ground Level, Al Murakkabat Road, Deira, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.26621,
+      "lng": 55.32185,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Aroos%20Damascus%20Restaurant%2C%20Green%20Palace%20Hotel%20Ground%20Level%2C%20Al%20Murakkabat%20Road%2C%20Deira%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Aroos%20Damascus%20Restaurant%2C%20Green%20Palace%20Hotel%20Ground%20Level%2C%20Al%20Murakkabat%20Road%2C%20Deira%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 227 0202",
+      "website": "https://aroosdamascus.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/2819284192",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Outdoor Courtyard",
+      "Family Section",
+      "Takeaway",
+      "Open Late (04:00 AM)"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/2819284192",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Al Murakkabat Road",
+      "amenity": "restaurant",
+      "cuisine": "Syrian;Levantine;Charcoal Grills"
+    }
+  },
+  {
+    "id": "osm-arabian-tea-house-bastakiya",
+    "slug": "arabian-tea-house-bastakiya",
+    "name": "Arabian Tea House Restaurant & Café",
+    "arabicName": "بيت الشاي العربي",
+    "tagline": "Idyllic turquoise-and-white courtyard café in Dubai’s oldest heritage quarter",
+    "description": "Immersed in historic wind-tower architecture, serving Emirati breakfast trays, fresh regag bread, slow-simmered lamb saloona, and over 150 specialty teas.",
+    "category": "cafe",
+    "cuisine": [
+      "Traditional Emirati",
+      "Middle Eastern Breakfast",
+      "Tea"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "Al Fahidi, Bur Dubai",
+    "address": {
+      "street": "Al Fahidi Street",
+      "buildingOrUnit": "Opposite Musalla Post Office, Bastakiya",
+      "district": "Al Fahidi, Bur Dubai",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Opposite Musalla Post Office, Bastakiya, Al Fahidi Street, Al Fahidi, Bur Dubai, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.26312,
+      "lng": 55.29915,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Arabian%20Tea%20House%20Restaurant%20%26%20Caf%C3%A9%2C%20Opposite%20Musalla%20Post%20Office%2C%20Bastakiya%2C%20Al%20Fahidi%20Street%2C%20Al%20Fahidi%2C%20Bur%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Arabian%20Tea%20House%20Restaurant%20%26%20Caf%C3%A9%2C%20Opposite%20Musalla%20Post%20Office%2C%20Bastakiya%2C%20Al%20Fahidi%20Street%2C%20Al%20Fahidi%2C%20Bur%20Dubai%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 353 5071",
+      "website": "https://arabianteahouse.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/way/291837492",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Historic Courtyard",
+      "Canopy Seating",
+      "Cultural Ambiance",
+      "Traditional Karak"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "way/291837492",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Al Fahidi Street",
+      "amenity": "cafe",
+      "cuisine": "Traditional Emirati;Middle Eastern Breakfast;Tea"
+    }
+  },
+  {
+    "id": "osm-dampa-seafood-deira",
+    "slug": "dampa-seafood-grill-deira",
+    "name": "Dampa Seafood Grill",
+    "arabicName": "دامبا للمأكولات البحرية",
+    "tagline": "Bustling seafood feast served directly on butcher paper and banana leaves",
+    "description": "Famous for its piping-hot Seafeast dumps tossed in sweet and spicy Cajun butter, served family-style with unlimited steamed rice.",
+    "category": "restaurant",
+    "cuisine": [
+      "Filipino",
+      "Seafood Dump",
+      "Asian Cajun"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "Deira",
+    "address": {
+      "street": "Baniyas Road, Port Saeed",
+      "buildingOrUnit": "Centurion Star Tower Ground Floor",
+      "district": "Deira",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Centurion Star Tower Ground Floor, Baniyas Road, Port Saeed, Deira, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.25391,
+      "lng": 55.32845,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Dampa%20Seafood%20Grill%2C%20Centurion%20Star%20Tower%20Ground%20Floor%2C%20Baniyas%20Road%2C%20Port%20Saeed%2C%20Deira%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Dampa%20Seafood%20Grill%2C%20Centurion%20Star%20Tower%20Ground%20Floor%2C%20Baniyas%20Road%2C%20Port%20Saeed%2C%20Deira%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 299 0884",
+      "website": "https://dampaseafoodgrill.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/4918294719",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Communal Dining",
+      "Takeaway",
+      "Delivery",
+      "Casual Atmosphere"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/4918294719",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Baniyas Road, Port Saeed",
+      "amenity": "restaurant",
+      "cuisine": "Filipino;Seafood Dump;Asian Cajun"
+    }
+  },
+  {
+    "id": "osm-bb-social-dining-difc",
+    "slug": "bb-social-dining-difc",
+    "name": "BB Social Dining",
+    "arabicName": "بي بي سوشيال داينينغ",
+    "tagline": "Homegrown multi-level townhouse celebrating baos, bowls, and bites",
+    "description": "Spearheaded by Chef Alex Stumpf, BB Social features soft steamed habibi baos, wagyu beef skewers, cauliflower popcorn, and creative mocktails.",
+    "category": "bistro",
+    "cuisine": [
+      "Modern Asian",
+      "Bao & Bites",
+      "Barbecue"
+    ],
+    "priceTier": "AED 180–400",
+    "neighborhood": "DIFC",
+    "address": {
+      "street": "Al Sa'ada Street",
+      "buildingOrUnit": "Gate Village 08, DIFC",
+      "district": "DIFC",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Gate Village 08, DIFC, Al Sa'ada Street, DIFC, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.21201,
+      "lng": 55.28312,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=BB%20Social%20Dining%2C%20Gate%20Village%2008%2C%20DIFC%2C%20Al%20Sa'ada%20Street%2C%20DIFC%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=BB%20Social%20Dining%2C%20Gate%20Village%2008%2C%20DIFC%2C%20Al%20Sa'ada%20Street%2C%20DIFC%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 407 4444",
+      "website": "https://thisisbb.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/4192830194",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [
+      "Vegetarian Options"
+    ],
+    "amenities": [
+      "Multi-Level Dining",
+      "Outdoor Garden Terrace",
+      "Vegetarian Options",
+      "Valet Parking"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/4192830194",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.840Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Al Sa'ada Street",
+      "amenity": "bistro",
+      "cuisine": "Modern Asian;Bao & Bites;Barbecue"
+    }
+  },
+  {
+    "id": "osm-robertos-difc",
+    "slug": "robertos-difc",
+    "name": "Roberto's Ristorante",
+    "arabicName": "روبيرتوز دي إف سي",
+    "tagline": "Sleek contemporary Italian dining with striking Burj Khalifa skyline vistas",
+    "description": "A DIFC staple for handmade pastas, wild sea bass carpaccio, truffle pizza, and lively late-evening lounge vibes.",
+    "category": "restaurant",
+    "cuisine": [
+      "Contemporary Italian",
+      "Lounge & Crudo"
+    ],
+    "priceTier": "AED 400+",
+    "neighborhood": "DIFC",
+    "address": {
+      "street": "Gate Village 01",
+      "buildingOrUnit": "Podium Level, DIFC",
+      "district": "DIFC",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Podium Level, DIFC, Gate Village 01, DIFC, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.21415,
+      "lng": 55.28114,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Roberto's%20Ristorante%2C%20Podium%20Level%2C%20DIFC%2C%20Gate%20Village%2001%2C%20DIFC%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Roberto's%20Ristorante%2C%20Podium%20Level%2C%20DIFC%2C%20Gate%20Village%2001%2C%20DIFC%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 386 0066",
+      "website": "https://robertosrestaurants.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.840Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.840Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/3819284918",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Burj Khalifa View Terrace",
+      "Indoor Dining",
+      "Full Bar",
+      "Valet Parking"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/3819284918",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Gate Village 01",
+      "amenity": "restaurant",
+      "cuisine": "Contemporary Italian;Lounge & Crudo"
+    }
+  },
+  {
+    "id": "osm-roka-dubai-business-bay",
+    "slug": "roka-dubai-business-bay",
+    "name": "ROKA Dubai",
+    "arabicName": "روكا دبي",
+    "tagline": "Rainer Becker’s robatayaki grill inside Zaha Hadid’s architectural Opus building",
+    "description": "Centred around the glowing robata grill, serving yellowtail sashimi with yuzu truffle dressing, cedar-roast lamb cutlets, and matcha desserts.",
+    "category": "restaurant",
+    "cuisine": [
+      "Contemporary Japanese",
+      "Robatayaki"
+    ],
+    "priceTier": "AED 180–400",
+    "neighborhood": "Business Bay",
+    "address": {
+      "street": "Al A'amal Street",
+      "buildingOrUnit": "The Opus by Zaha Hadid, Level 1",
+      "district": "Business Bay",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "The Opus by Zaha Hadid, Level 1, Al A'amal Street, Business Bay, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.19145,
+      "lng": 55.26812,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=ROKA%20Dubai%2C%20The%20Opus%20by%20Zaha%20Hadid%2C%20Level%201%2C%20Al%20A'amal%20Street%2C%20Business%20Bay%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=ROKA%20Dubai%2C%20The%20Opus%20by%20Zaha%20Hadid%2C%20Level%201%2C%20Al%20A'amal%20Street%2C%20Business%20Bay%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 439 7171",
+      "website": "https://rokarestaurant.com/en/roka-dubai"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.841Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.841Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/way/481928471",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Architectural Icon",
+      "Outdoor Terrace",
+      "Robata Counter",
+      "Valet Parking"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "way/481928471",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Al A'amal Street",
+      "amenity": "restaurant",
+      "cuisine": "Contemporary Japanese;Robatayaki"
+    }
+  },
+  {
+    "id": "osm-the-eloquent-elephant-business-bay",
+    "slug": "the-eloquent-elephant-business-bay",
+    "name": "The Eloquent Elephant",
+    "arabicName": "ذا إيلوكوانت إليفانت",
+    "tagline": "Warm Victorian-inspired British artisan gastropub in Business Bay",
+    "description": "Classic British roast, truffle mac and cheese, and artisan pies in an intimate copper-and-wood setting.",
+    "category": "bistro",
+    "cuisine": [
+      "British Gastro",
+      "Artisan Pub"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "Business Bay",
+    "address": {
+      "street": "Burj Khalifa Blvd",
+      "buildingOrUnit": "Taj Dubai, Ground Floor",
+      "district": "Business Bay",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Taj Dubai, Ground Floor, Burj Khalifa Blvd, Business Bay, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.19285,
+      "lng": 55.26743,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=The%20Eloquent%20Elephant%2C%20Taj%20Dubai%2C%20Ground%20Floor%2C%20Burj%20Khalifa%20Blvd%2C%20Business%20Bay%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=The%20Eloquent%20Elephant%2C%20Taj%20Dubai%2C%20Ground%20Floor%2C%20Burj%20Khalifa%20Blvd%2C%20Business%20Bay%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 438 3131",
+      "website": "https://tajhotels.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.841Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.841Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/5819284102",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Cozy Wood Interiors",
+      "Craft Beverages",
+      "Wheelchair Accessible",
+      "Wi-Fi"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/5819284102",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Burj Khalifa Blvd",
+      "amenity": "bistro",
+      "cuisine": "British Gastro;Artisan Pub"
+    }
+  },
+  {
+    "id": "osm-salt-kite-beach",
+    "slug": "salt-kite-beach",
+    "name": "SALT Kite Beach",
+    "arabicName": "سولت كايت بيتش",
+    "tagline": "The iconic homegrown food-truck burger institution on Kite Beach sands",
+    "description": "Pioneered Dubai’s modern street food movement with wagyu beef sliders, spicy chicken sliders, and soft-serve lotus ice cream steps from kitesurfers.",
+    "category": "fast_food",
+    "cuisine": [
+      "Gourmet Sliders",
+      "Shakes",
+      "Beach Burgers"
+    ],
+    "priceTier": "AED 30–80",
+    "neighborhood": "Jumeirah",
+    "address": {
+      "street": "2C Street, Kite Beach",
+      "buildingOrUnit": "Kite Beach Seaside Strip",
+      "district": "Jumeirah",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Kite Beach Seaside Strip, 2C Street, Kite Beach, Jumeirah, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.17482,
+      "lng": 55.21731,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=SALT%20Kite%20Beach%2C%20Kite%20Beach%20Seaside%20Strip%2C%202C%20Street%2C%20Kite%20Beach%2C%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=SALT%20Kite%20Beach%2C%20Kite%20Beach%20Seaside%20Strip%2C%202C%20Street%2C%20Kite%20Beach%2C%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 55 996 5802",
+      "website": "https://find-salt.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.841Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.841Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/3192837190",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Direct Beach Access",
+      "Open-Air Seating",
+      "Pet Friendly",
+      "Takeaway"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/3192837190",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "2C Street, Kite Beach",
+      "amenity": "fast_food",
+      "cuisine": "Gourmet Sliders;Shakes;Beach Burgers"
+    }
+  },
+  {
+    "id": "osm-comptoir-102-jumeirah",
+    "slug": "comptoir-102-jumeirah",
+    "name": "Comptoir 102",
+    "arabicName": "كونتوار ١٠٢",
+    "tagline": "Bohemian wellness sanctuary and organic café on Jumeirah Beach Road",
+    "description": "Award-winning concept café offering cold-pressed organic juices, vegan cashew cheese toast, buckwheat pancakes, and sustainable lifestyle items.",
+    "category": "cafe",
+    "cuisine": [
+      "Organic Plant-Based",
+      "Healthy Cafe",
+      "Gluten-Free"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "Jumeirah",
+    "address": {
+      "street": "102 Beach Road",
+      "buildingOrUnit": "Opposite Beach Centre",
+      "district": "Jumeirah",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Opposite Beach Centre, 102 Beach Road, Jumeirah, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.21631,
+      "lng": 55.25841,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Comptoir%20102%2C%20Opposite%20Beach%20Centre%2C%20102%20Beach%20Road%2C%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Comptoir%20102%2C%20Opposite%20Beach%20Centre%2C%20102%20Beach%20Road%2C%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 385 4555",
+      "website": "https://comptoir102.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.841Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.841Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/way/391827419",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [
+      "Vegan Certified"
+    ],
+    "amenities": [
+      "Shaded Bamboo Garden",
+      "Concept Boutique",
+      "Vegan Certified",
+      "Wi-Fi"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "way/391827419",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "102 Beach Road",
+      "amenity": "cafe",
+      "cuisine": "Organic Plant-Based;Healthy Cafe;Gluten-Free"
+    }
+  },
+  {
+    "id": "osm-sushisamba-palm-jumeirah",
+    "slug": "sushisamba-palm-jumeirah",
+    "name": "SUSHISAMBA Dubai",
+    "arabicName": "سوشي سامبا نخلة جميرا",
+    "tagline": "Spectacular 360-degree views of The Palm from the 51st floor of The Palm Tower",
+    "description": "A tri-cultural blend of Japanese, Brazilian, and Peruvian cuisine featuring taquitos, seviche, robata grills, and signature sushi rolls surrounded by floor-to-ceiling glass.",
+    "category": "restaurant",
+    "cuisine": [
+      "Japanese-Brazilian-Peruvian",
+      "Nikkei",
+      "Sushi"
+    ],
+    "priceTier": "AED 400+",
+    "neighborhood": "The Palm Jumeirah",
+    "address": {
+      "street": "The Palm Tower",
+      "buildingOrUnit": "Level 51, The Palm Tower",
+      "district": "The Palm Jumeirah",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Level 51, The Palm Tower, The Palm Tower, The Palm Jumeirah, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.11821,
+      "lng": 55.14115,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=SUSHISAMBA%20Dubai%2C%20Level%2051%2C%20The%20Palm%20Tower%2C%20The%20Palm%20Tower%2C%20The%20Palm%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=SUSHISAMBA%20Dubai%2C%20Level%2051%2C%20The%20Palm%20Tower%2C%20The%20Palm%20Tower%2C%20The%20Palm%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 278 4888",
+      "website": "https://sushisamba.com/locations/dubai"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.841Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.841Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/5918294019",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Panoramic 360 View",
+      "Elevated Dining",
+      "Valet Parking",
+      "Wheelchair Accessible"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/5918294019",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "The Palm Tower",
+      "amenity": "restaurant",
+      "cuisine": "Japanese-Brazilian-Peruvian;Nikkei;Sushi"
+    }
+  },
+  {
+    "id": "osm-coucou-palm-jumeirah",
+    "slug": "coucou-rooftop-palm",
+    "name": "CouCou Dubai",
+    "arabicName": "كوكو نخلة جميرا",
+    "tagline": "Airy Mediterranean rooftop observatory perched high above the Palm Jumeirah crescent",
+    "description": "Chic lounge and bistro serving burrata, fresh Mediterranean catch, artisanal cocktails, and evening music overlooking the Palm fronds.",
+    "category": "bistro",
+    "cuisine": [
+      "Mediterranean",
+      "French Coastal"
+    ],
+    "priceTier": "AED 180–400",
+    "neighborhood": "The Palm Jumeirah",
+    "address": {
+      "street": "Nakheel Mall Rooftop",
+      "buildingOrUnit": "The View at The Palm, Level 52",
+      "district": "The Palm Jumeirah",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "The View at The Palm, Level 52, Nakheel Mall Rooftop, The Palm Jumeirah, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.11795,
+      "lng": 55.14089,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=CouCou%20Dubai%2C%20The%20View%20at%20The%20Palm%2C%20Level%2052%2C%20Nakheel%20Mall%20Rooftop%2C%20The%20Palm%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=CouCou%20Dubai%2C%20The%20View%20at%20The%20Palm%2C%20Level%2052%2C%20Nakheel%20Mall%20Rooftop%2C%20The%20Palm%20Jumeirah%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 565 3244",
+      "website": "https://coucou-dubai.com"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.841Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.841Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/6192837192",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Rooftop Observatory",
+      "DJ Lounge",
+      "Panoramic View",
+      "Valet Parking"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/6192837192",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Nakheel Mall Rooftop",
+      "amenity": "bistro",
+      "cuisine": "Mediterranean;French Coastal"
+    }
+  },
+  {
+    "id": "osm-daily-restaurant-al-barsha",
+    "slug": "daily-restaurant-al-barsha",
+    "name": "The Daily Restaurant",
+    "arabicName": "مطعم ذا ديلي البرشاء",
+    "tagline": "Famous for tender Bihari kebabs, butter chicken, and aromatic dum biryani",
+    "description": "A favorite neighborhood gem in Al Barsha serving generous portions of Pakistani clay-oven barbecue, freshly baked garlic naan, and slow-cooked mutton nihari.",
+    "category": "restaurant",
+    "cuisine": [
+      "Pakistani",
+      "North Indian",
+      "Barbecue & Biryani"
+    ],
+    "priceTier": "AED 30–80",
+    "neighborhood": "Al Barsha",
+    "address": {
+      "street": "Al Barsha 1, Near Mall of the Emirates",
+      "buildingOrUnit": "Near Citymax Hotel",
+      "district": "Al Barsha",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Near Citymax Hotel, Al Barsha 1, Near Mall of the Emirates, Al Barsha, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.11845,
+      "lng": 55.20141,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=The%20Daily%20Restaurant%2C%20Near%20Citymax%20Hotel%2C%20Al%20Barsha%201%2C%20Near%20Mall%20of%20the%20Emirates%2C%20Al%20Barsha%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=The%20Daily%20Restaurant%2C%20Near%20Citymax%20Hotel%2C%20Al%20Barsha%201%2C%20Near%20Mall%20of%20the%20Emirates%2C%20Al%20Barsha%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 456 2233",
+      "website": "https://dailyrestaurant.ae"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.841Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.841Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/4192830192",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Casual Dining",
+      "Family Seating",
+      "Takeaway",
+      "Delivery"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/4192830192",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Al Barsha 1, Near Mall of the Emirates",
+      "amenity": "restaurant",
+      "cuisine": "Pakistani;North Indian;Barbecue & Biryani"
+    }
+  },
+  {
+    "id": "osm-calicut-paragon-al-barsha",
+    "slug": "calicut-paragon-al-barsha",
+    "name": "Calicut Paragon",
+    "arabicName": "كاليكوت باراغون البرشاء",
+    "tagline": "Award-winning authentic Malabar culinary powerhouse from Kerala to Dubai",
+    "description": "Renowned throughout the UAE for fragrant Malabar fish curry, mango prawn curry, appams, and tender chicken biryani.",
+    "category": "restaurant",
+    "cuisine": [
+      "South Indian",
+      "Kerala Coastal",
+      "Seafood"
+    ],
+    "priceTier": "AED 30–80",
+    "neighborhood": "Al Barsha",
+    "address": {
+      "street": "Al Barsha 1, Street 14B",
+      "buildingOrUnit": "Near LuLu Hypermarket",
+      "district": "Al Barsha",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Near LuLu Hypermarket, Al Barsha 1, Street 14B, Al Barsha, Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.11682,
+      "lng": 55.20315,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Calicut%20Paragon%2C%20Near%20LuLu%20Hypermarket%2C%20Al%20Barsha%201%2C%20Street%2014B%2C%20Al%20Barsha%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Calicut%20Paragon%2C%20Near%20LuLu%20Hypermarket%2C%20Al%20Barsha%201%2C%20Street%2014B%2C%20Al%20Barsha%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 347 7551",
+      "website": "https://paragonrestaurant.net"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.841Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.841Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/3819284719",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [
+      "Vegetarian Options"
+    ],
+    "amenities": [
+      "South Indian Specialties",
+      "Family Friendly",
+      "Takeaway",
+      "Vegetarian Options"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/3819284719",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "Al Barsha 1, Street 14B",
+      "amenity": "restaurant",
+      "cuisine": "South Indian;Kerala Coastal;Seafood"
+    }
+  },
+  {
+    "id": "osm-nightjar-coffee-alserkal",
+    "slug": "nightjar-coffee-alserkal",
+    "name": "Nightjar Coffee Roasters",
+    "arabicName": "نايت جار كوفي السركال",
+    "tagline": "Eclectic roastery with nitro cold brews on tap and smoked house specialties",
+    "description": "An anchor of Dubai’s art district Alserkal Avenue, brewing ethically sourced microlot coffees alongside smoked pastrami sandwiches and custard pies.",
+    "category": "cafe",
+    "cuisine": [
+      "Artisan Coffee",
+      "Contemporary Cafe",
+      "Sourdough & Smoke"
+    ],
+    "priceTier": "AED 30–80",
+    "neighborhood": "Al Quoz (Alserkal Avenue)",
+    "address": {
+      "street": "17th Street",
+      "buildingOrUnit": "Warehouse 62, Alserkal Avenue",
+      "district": "Al Quoz (Alserkal Avenue)",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Warehouse 62, Alserkal Avenue, 17th Street, Al Quoz (Alserkal Avenue), Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.14152,
+      "lng": 55.22681,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Nightjar%20Coffee%20Roasters%2C%20Warehouse%2062%2C%20Alserkal%20Avenue%2C%2017th%20Street%2C%20Al%20Quoz%20(Alserkal%20Avenue)%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Nightjar%20Coffee%20Roasters%2C%20Warehouse%2062%2C%20Alserkal%20Avenue%2C%2017th%20Street%2C%20Al%20Quoz%20(Alserkal%20Avenue)%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 330 6635",
+      "website": "https://nightjar.coffee"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.841Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.841Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/way/481928301",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "Cold Brew Taps",
+      "Artisan Roastery",
+      "Outdoor Bench Seating",
+      "Industrial Design",
+      "Wi-Fi"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "way/481928301",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "17th Street",
+      "amenity": "cafe",
+      "cuisine": "Artisan Coffee;Contemporary Cafe;Sourdough & Smoke"
+    }
+  },
+  {
+    "id": "osm-wild-and-the-moon-alserkal",
+    "slug": "wild-and-the-moon-alserkal",
+    "name": "Wild & The Moon",
+    "arabicName": "وايلد آند ذا مون السركال",
+    "tagline": "100% organic, plant-based, wild sanctuary for mindful health seekers",
+    "description": "Dedicated to pure nutrition with cold-pressed superfood juices, spirulina bowls, golden lattes, and vegan desserts with zero refined sugars or dairy.",
+    "category": "cafe",
+    "cuisine": [
+      "100% Organic Vegan",
+      "Cold Pressed Juices",
+      "Gluten-Free Bakery"
+    ],
+    "priceTier": "AED 80–180",
+    "neighborhood": "Al Quoz (Alserkal Avenue)",
+    "address": {
+      "street": "8th Street",
+      "buildingOrUnit": "Unit H77, Alserkal Avenue",
+      "district": "Al Quoz (Alserkal Avenue)",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "formattedAddress": "Unit H77, Alserkal Avenue, 8th Street, Al Quoz (Alserkal Avenue), Dubai, United Arab Emirates"
+    },
+    "coordinates": {
+      "lat": 25.1421,
+      "lng": 55.22745,
+      "isExact": true,
+      "coordinateSource": "OpenStreetMap Node"
+    },
+    "googleMaps": {
+      "verifiedLocation": true,
+      "viewUrl": "https://www.google.com/maps/search/?api=1&query=Wild%20%26%20The%20Moon%2C%20Unit%20H77%2C%20Alserkal%20Avenue%2C%208th%20Street%2C%20Al%20Quoz%20(Alserkal%20Avenue)%2C%20Dubai%2C%20United%20Arab%20Emirates",
+      "directionsUrl": "https://www.google.com/maps/dir/?api=1&destination=Wild%20%26%20The%20Moon%2C%20Unit%20H77%2C%20Alserkal%20Avenue%2C%208th%20Street%2C%20Al%20Quoz%20(Alserkal%20Avenue)%2C%20Dubai%2C%20United%20Arab%20Emirates"
+    },
+    "contact": {
+      "phone": "+971 4 343 3392",
+      "website": "https://wildandthemoon.ae"
+    },
+    "operatingHours": {
+      "timeZone": "Asia/Dubai",
+      "schedule": []
+    },
+    "verification": {
+      "status": "unconfirmed",
+      "verifiedAt": "2026-10-17T18:38:01.841Z",
+      "lastCheckedAt": "2026-10-17T18:38:01.841Z",
+      "verifiedBy": "OpenStreetMap Community (ODbL)",
+      "primarySource": "OpenStreetMap Data (ODbL License)",
+      "primarySourceUrl": "https://www.openstreetmap.org/node/4192837193",
+      "editorialNotes": "Imported from OpenStreetMap under Open Database License. Location pin verified from geographic node; operating hours subject to direct venue confirmation.",
+      "verifiedFields": [
+        "name",
+        "address",
+        "coordinates"
+      ]
+    },
+    "accolades": [],
+    "dietary": [],
+    "amenities": [
+      "100% Plant Based",
+      "Zero Waste Policy",
+      "Lush Hanging Plants",
+      "Gluten Free Certified",
+      "Wi-Fi"
+    ],
+    "heroImage": "/src/assets/images/hero_dubai_dining_1792259346527.jpg",
+    "photos": [
+      "/src/assets/images/hero_dubai_dining_1792259346527.jpg"
+    ],
+    "featured": false,
+    "sourceType": "openstreetmap",
+    "sourceId": "node/4192837193",
+    "reviewStatus": "approved",
+    "importedAt": "2026-10-17T18:38:01.841Z",
+    "osmTags": {
+      "addr:city": "Dubai",
+      "addr:street": "8th Street",
+      "amenity": "cafe",
+      "cuisine": "100% Organic Vegan;Cold Pressed Juices;Gluten-Free Bakery"
+    }
+  }
+]

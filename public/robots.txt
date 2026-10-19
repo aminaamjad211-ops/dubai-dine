@@ -1,0 +1,30 @@
+# DineDubai Search Engine Crawling Directives
+User-agent: *
+Allow: /
+Allow: /sitemap.xml
+Allow: /api/restaurants
+Allow: /api/dubai-time
+Allow: /#neighbourhood/*
+Allow: /#guide/*
+Allow: /#restaurant/*
+Allow: /#about
+Allow: /#contact
+Allow: /#privacy-policy
+Allow: /#terms-and-conditions
+Allow: /#cookie-policy
+Allow: /#faq
+Allow: /#editorial-policy
+Allow: /#advertising-disclosure
+Allow: /#affiliate-disclosure
+Allow: /#corrections
+Allow: /#sitemap
+
+# Restrict Private Administration & Internal Management Routes
+Disallow: /admin
+Disallow: /admin/*
+Disallow: /#admin
+Disallow: /api/admin/*
+Disallow: /api/backups/*
+
+# Canonical Sitemap Declaration
+Sitemap: https://dinedubai.guide/sitemap.xml
