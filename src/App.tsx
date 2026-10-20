@@ -109,7 +109,7 @@ export default function App() {
   // Handle URL hash changes or direct routing
   useEffect(() => {
     const handleHash = () => {
-      const hash = window.location.hash.replace('#', '').trim();
+      const hash = window.location.pathname.replace(/^\/+|\/+$/g, '') || window.location.hash.replace('#', '').trim();
 
       if (hash.startsWith('restaurant/')) {
         const slug = hash.replace('restaurant/', '');
@@ -183,8 +183,12 @@ export default function App() {
 
     handleHash();
     window.addEventListener('hashchange', handleHash);
-    return () => window.removeEventListener('hashchange', handleHash);
-  }, [restaurants]);
+window.addEventListener('popstate', handleHash);
+
+return () => {
+  window.removeEventListener('hashchange', handleHash);
+  window.removeEventListener('popstate', handleHash);
+};
 
   const handleSelectRestaurant = (restaurant: Restaurant) => {
     setSelectedRestaurantId(restaurant.id);
