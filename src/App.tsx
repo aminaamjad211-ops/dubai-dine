@@ -189,7 +189,7 @@ return () => {
   window.removeEventListener('hashchange', handleHash);
   window.removeEventListener('popstate', handleHash);
 };
-
+  }, [restaurants]);
   const handleSelectRestaurant = (restaurant: Restaurant) => {
     setSelectedRestaurantId(restaurant.id);
   };
