@@ -45,17 +45,22 @@ export function buildGoogleMapsViewUrl(
     };
   }
 
-  const placeId = restaurant.googleMaps?.placeId;
-  const addressPart = restaurant.address?.formattedAddress || `${restaurant.address?.street || ''}, ${restaurant.address?.district || 'Dubai'}, United Arab Emirates`;
-  const nameAndAddress = `${restaurant.name}, ${addressPart}`.trim();
+ 
+const placeId = restaurant.googleMaps?.placeId;
+const addressPart =
+  restaurant.address?.formattedAddress ||
+  `${restaurant.address?.street || ''}, ${restaurant.address?.district || 'Dubai'}, United Arab Emirates`;
 
-  // If placeId is available, Google Maps can resolve the canonical place directly
-  if (placeId) {
-    return {
-      url: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(nameAndAddress)}&query_place_id=${encodeURIComponent(placeId)}`,
-      isExactLocation: true,
-    };
-  }
+const destinationQuery = hasValidCoordinates
+  ? `${restaurant.coordinates.lat},${restaurant.coordinates.lng}`
+  : `${restaurant.name}, ${addressPart}`.trim();
+
+let url = `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(destinationQuery)}`;
+
+if (placeId && !hasValidCoordinates) {
+  url += `&destination_place_id=${encodeURIComponent(placeId)}`;
+}
+
 
   // If exact coordinates are available and verified
   const isExactLocation = Boolean(
