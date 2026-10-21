@@ -49,24 +49,21 @@ function isVerifiedLocation(restaurant: MapsRestaurant): boolean {
 export function buildGoogleMapsViewUrl(
   restaurant: MapsRestaurant
 ): GoogleMapsLinkResult {
-  const validCoordinates = hasValidDubaiCoordinates(restaurant);
+  const query = getNameAndAddress(restaurant);
   const placeId = restaurant.googleMaps?.placeId;
-  const query = validCoordinates
-    ? `${restaurant.coordinates.lat},${restaurant.coordinates.lng}`
-    : getNameAndAddress(restaurant);
 
   let url = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(query)}`;
 
-  if (placeId && !validCoordinates) {
+  if (placeId) {
     url += `&query_place_id=${encodeURIComponent(placeId)}`;
   }
 
   return {
     url,
     isExactLocation: isVerifiedLocation(restaurant),
-    warningNote: validCoordinates
+    warningNote: placeId
       ? undefined
-      : 'Coordinates are unavailable or outside the expected Dubai area; searching by name and address.',
+      : 'Google Maps will search by restaurant name and address.',
   };
 }
 
