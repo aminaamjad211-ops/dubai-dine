@@ -63,15 +63,18 @@ export function buildGoogleMapsViewUrl(
     (restaurant.verification?.status === 'verified' || restaurant.googleMaps?.verifiedLocation)
   );
 
-  if (hasValidCoordinates) {
-    return {
-      url: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(nameAndAddress)}`,
-      isExactLocation,
-      warningNote: isExactLocation
-        ? undefined
-        : 'Venue coordinates are approximate or pending verification.',
-    };
-  }
+if (hasValidCoordinates) {
+  const coordinateQuery =
+    `${restaurant.coordinates.lat},${restaurant.coordinates.lng} (${nameAndAddress})`;
+
+  return {
+    url: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(coordinateQuery)}`,
+    isExactLocation,
+    warningNote: isExactLocation
+      ? undefined
+      : 'Venue coordinates are approximate or pending verification.',
+  };
+}
 
   // Address-based query
   return {
